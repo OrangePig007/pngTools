@@ -1,0 +1,63 @@
+/* styles.qss */
+
+QWidget {
+    background-color: #2E2E2E;
+    color: #FFFFFF;
+    font-family: "阿里巴巴普惠体 B";
+}
+
+#excButton {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 17px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#excButton:hover {
+    background-color: #45A049;
+}
+
+#excButton:pressed {
+    background-color: #3E8E41;
+}
+
+QPushButton {
+    background-color: #00aeec;
+    color: white;
+    border: none;
+    border-radius: 17px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+QPushButton:hover {
+    background-color: #058bbb;
+}
+
+QPushButton:pressed {
+    background-color: #058bbb;
+}
+
+QLabel {
+    padding: 5px;
+    font-size: 14px;
+}
+
+#backButton {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 17px;
+    padding: 10px;
+}
+
+#backButton:hover {
+    background-color: darkred;
+}
+
+#backButton:pressed {
+    background-color: #990000;
+}
+
