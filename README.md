@@ -1,8 +1,8 @@
 # Usage
 See pics, don't ask.
-## To slice consist png
+## To slice combined png into pieces (Rest in pieces)
 ![Slice](/pic/slice.png)
-## To cut off  transparent area
+## To cut off  transparent area (Png on diet)
 ![Shrink](/pic/shrink.png)
 
 # Steps
